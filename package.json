@@ -1,0 +1,21 @@
+{
+  "name": "fresh",
+  "displayName": "fresh",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "fresh theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fresh theme-color-theme.json"
+      }
+    ]
+  }
+}
