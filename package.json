@@ -1,7 +1,7 @@
 {
-    "name": "focus",
-    "displayName": "focus",
-    "description": "Focus dark theme.",
+    "name": "focuss",
+    "displayName": "Focuss Dark Theme",
+    "description": "Focuss dark theme, a friendly theme.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.74.0"
@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "publisher": "DavidHernandez",
     "contributes": {
         "themes": [
             {
