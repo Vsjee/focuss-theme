@@ -1,9 +1,13 @@
-# Change Log
+# Focus theme
 
-All notable changes to the "fresh" extension will be documented in this file.
+Very friendly and focus dark theme, I hope you like it.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### preview
 
-## [Unreleased]
+#### JavaScript
 
-- Initial release
+![exampleJS](images/exampleJS.png)
+
+#### React js
+
+![exampleREACT](images/exampleREACT.png)
