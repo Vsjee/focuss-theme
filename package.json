@@ -1,6 +1,6 @@
 {
     "name": "focuss",
-    "displayName": "Focuss Dark Theme",
+    "displayName": "Focuss Theme",
     "description": "Focuss dark theme, a friendly theme.",
     "version": "0.0.1",
     "engines": {
@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "focus theme",
+                "label": "focuss theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/focus-theme-color-theme.json"
             }

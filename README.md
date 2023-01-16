@@ -1,6 +1,6 @@
 # Focus theme
 
-Very friendly and focus dark theme, I hope you like it.
+Very friendly and focuss dark theme, I hope you like it.
 
 ### preview
 
