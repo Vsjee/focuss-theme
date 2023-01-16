@@ -1,21 +1,36 @@
 {
-  "name": "fresh",
-  "displayName": "fresh",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "fresh theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/fresh theme-color-theme.json"
-      }
-    ]
-  }
+    "name": "focus",
+    "displayName": "focus",
+    "description": "Focus dark theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "focus theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/focus-theme-color-theme.json"
+            }
+        ]
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "homepage": "https://github.com/Vsjee/focus-theme",
+    "bugs": {
+        "url": "https://github.com/Vsjee/focus-theme",
+        "email": "davidfelipehernandez1@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vsjee/focus-theme"
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#252525",
+        "theme": "dark"
+    }
 }
