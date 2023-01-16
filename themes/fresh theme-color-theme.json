@@ -4,11 +4,11 @@
         "activityBar.activeBackground": "#181818",
         "activityBar.activeBorder": "#ffffff00",
         "activityBar.activeFocusBorder": "#ffffff00",
-        "activityBar.background": "#181818",
+        "activityBar.background": "#1b1b1b",
         "activityBar.border": "#ffffff00",
         "activityBar.dropBorder": "#BD93F9",
         "activityBar.foreground": "#BD93F9",
-        "activityBar.inactiveForeground": "#535353",
+        "activityBar.inactiveForeground": "#999999",
         "activityBarBadge.background": "#efc541",
         "activityBarBadge.foreground": "#252525",
         "badge.background": "#efc541",
@@ -299,7 +299,7 @@
         "list.inactiveFocusOutline": "#ffffff00",
         "list.inactiveSelectionBackground": "#252525",
         "list.inactiveSelectionForeground": "#777777",
-        "list.inactiveSelectionIconForeground": "#777777",
+        "list.inactiveSelectionIconForeground": "#c4c4c4",
         "list.invalidItemForeground": "#ff5e56",
         "list.warningForeground": "#fa9153",
         "listFilterWidget.background": "#BD93F9",
@@ -308,7 +308,7 @@
         "listFilterWidget.shadow": "#000000",
         "menu.background": "#252525",
         "menu.border": "#00000000",
-        "menu.foreground": "#b9b9b9",
+        "menu.foreground": "#c4c4c4",
         "menu.selectionBackground": "#3f3f3fea",
         "menu.selectionBorder": "#ffffff00",
         "menu.selectionForeground": "#BD93F9",
@@ -355,7 +355,7 @@
         "panelSection.dropBackground": "#a381ff1a",
         "panelTitle.activeBorder": "#BD93F9",
         "panelTitle.activeForeground": "#BD93F9",
-        "panelTitle.inactiveForeground": "#3b3b3b",
+        "panelTitle.inactiveForeground": "#999999",
         "peekView.border": "#000000",
         "peekViewEditor.background": "#252525",
         "peekViewEditor.matchHighlightBackground": "#efc5414d",
@@ -414,10 +414,10 @@
         "sideBar.background": "#131313",
         "sideBar.border": "#131313",
         "sideBar.dropBackground": "#a381ff1a",
-        "sideBar.foreground": "#a0a0a0",
+        "sideBar.foreground": "#c4c4c4",
         "sideBarSectionHeader.background": "#131313",
         "sideBarSectionHeader.border": "#131313",
-        "sideBarSectionHeader.foreground": "#d4d4d4",
+        "sideBarSectionHeader.foreground": "#c4c4c4",
         "sideBarTitle.foreground": "#BD93F9",
         "sideBySideEditor.horizontalBorder": "#000000",
         "sideBySideEditor.verticalBorder": "#000000",
@@ -483,7 +483,7 @@
         "tab.hoverBorder": "#ffffff00",
         "tab.hoverForeground": "#a580e2",
         "tab.inactiveBackground": "#181818",
-        "tab.inactiveForeground": "#777777",
+        "tab.inactiveForeground": "#999999",
         "tab.inactiveModifiedBorder": "#ffffff00",
         "tab.lastPinnedBorder": "#000000",
         "tab.unfocusedActiveBackground": "#181818",
@@ -495,7 +495,7 @@
         "tab.unfocusedHoverBorder": "#ffffff00",
         "tab.unfocusedHoverForeground": "#8454d1",
         "tab.unfocusedInactiveBackground": "#181818",
-        "tab.unfocusedInactiveForeground": "#3b3b3b",
+        "tab.unfocusedInactiveForeground": "#999999",
         "tab.unfocusedInactiveModifiedBorder": "#ffffff00",
         "terminal.ansiBlack": "#252525",
         "terminal.ansiBlue": "#368aeb",
@@ -537,7 +537,7 @@
         "titleBar.activeForeground": "#777777",
         "titleBar.border": "#ffffff00",
         "titleBar.inactiveBackground": "#252525",
-        "titleBar.inactiveForeground": "#777777",
+        "titleBar.inactiveForeground": "#999999",
         "tree.indentGuidesStroke": "#3b3b3b",
         "walkThrough.embeddedEditorBackground": "#181818",
         "welcomePage.background": "#181818",
@@ -824,7 +824,7 @@
         {
             "scope": ["entity.name.tag"],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#98FF59"
             }
         },
         {
@@ -836,7 +836,7 @@
         {
             "scope": ["entity.other.attribute-name"],
             "settings": {
-                "foreground": "#50FA7B",
+                "foreground": "#BD93F9",
                 "fontStyle": "italic"
             }
         },
