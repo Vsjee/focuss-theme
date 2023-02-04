@@ -1,13 +1,18 @@
-# Focus theme
+## Changelog
 
-Very friendly and focus dark theme, I hope you like it.
+### Releases
 
-### preview
+##### version: 0.1.0
 
-#### JavaScript
+update
 
-![exampleJS](images/exampleJS.png)
+- Change editor colors
+  - Terminal
+  - SideBar
+  - Menus
 
-#### React js
+Now the theme have more consistency.
 
-![exampleREACT](images/exampleREACT.png)
+##### version: 0.0.1
+
+first upload to the marketplace.
