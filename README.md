@@ -14,6 +14,6 @@ Very friendly and focuss dark theme, I hope you like it.
 
 #### Angular
 
-![exampleAngualr](images/exampleAngular.png)
+![exampleANGULAR](images/exampleANGULAR.png)
 
 If you are here thank you.
