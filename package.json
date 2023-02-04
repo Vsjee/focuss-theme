@@ -1,37 +1,37 @@
 {
-    "name": "focuss",
-    "displayName": "Focuss Theme",
-    "description": "Focuss dark theme, a friendly theme.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.74.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "publisher": "DavidHernandez",
-    "contributes": {
-        "themes": [
-            {
-                "label": "focuss theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/focus-theme-color-theme.json"
-            }
-        ]
-    },
-    "license": "SEE LICENSE IN LICENSE.txt",
-    "homepage": "https://github.com/Vsjee/focus-theme",
-    "bugs": {
-        "url": "https://github.com/Vsjee/focus-theme",
-        "email": "davidfelipehernandez1@gmail.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Vsjee/focus-theme"
-    },
-    "icon": "images/icon.png",
-    "galleryBanner": {
-        "color": "#252525",
-        "theme": "dark"
-    }
+  "name": "focuss",
+  "displayName": "Focuss Theme",
+  "description": "Focuss dark theme, a friendly theme.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "DavidHernandez",
+  "contributes": {
+    "themes": [
+      {
+        "label": "focuss theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/focus-theme-color-theme.json"
+      }
+    ]
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/Vsjee/focus-theme",
+  "bugs": {
+    "url": "https://github.com/Vsjee/focus-theme",
+    "email": "davidfelipehernandez1@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vsjee/focus-theme"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#252525",
+    "theme": "dark"
+  }
 }
