@@ -8,6 +8,12 @@ Very friendly and focuss dark theme, I hope you like it.
 
 ![exampleJS](images/exampleJS.png)
 
-#### React js
+#### React
 
-![exampleREACT](images/exampleREACT.png)
+![exampleREACT](images/react.png)
+
+#### Angular
+
+![exampleAngualr](images/exampleAngular.png)
+
+If you are here thank you.
